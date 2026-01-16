@@ -1,0 +1,63 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# Node
+node_modules/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+.cache/
+.mypy_cache/
+.pytest_cache/
+coverage.xml
+htmlcov/
+.tox/
+.venv/
+venv/
+
+# Builds / bundles
+.dist/
+dist/
+build/
+.DS_Store?
+
+# Editors
+*.swp
+*.swo
+*.tmp
+*.bak
+*.orig
+
+# VS Code
+.vscode/
+.history/
+
+# Docs & exports
+*.pptx
+*.xlsx
+*.docx
+*.pdf
+*.tmp
+*.bak
+
+# Environment
+.env
+.env.*
+
