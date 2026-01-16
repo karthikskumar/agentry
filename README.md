@@ -1,4 +1,4 @@
-# My Agentic Workflow preferences
+# My Agentic Workflow Configuration
 
 ## Instructions
 
