@@ -35,3 +35,9 @@ Also See: [AgentSkills by Anthropic](https://github.com/anthropics/skills)
 
 ## Testing
 
+## Appendix
+### TODO
+- Preferences for CLI based agents (AutoGPT, Copilot etc).
+- Add Skill for Quarto Presentations.
+- Add frequently used fonts into assets. Ex: [Blex Mono](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/IBMPlexMono)
+
